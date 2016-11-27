@@ -13,6 +13,8 @@ categories:
 
 There are so many leading front-end libraries such as [ReactJS](https://facebook.github.io/react/), [CycleJS](http://cycle.js.org/), [Elm](http://elm-lang.org/) …, etc. But, today I want to talk about [AngularJS](https://angularjs.org/), the first MV* framework I met.
 
+<!-- more -->
+
 ![](https://medium2.global.ssl.fastly.net/max/2400/1*W1lQdBP_BKy8jz8jtW054w.jpeg)**
 
 It’s been over two years since I started my full-stack development career. There are so that many interesting and error-trying stories could be shared. The first project we wrote was based on jQuery and Node.js, we soon encountered problems because of numerous sporadical unstructured javascript codes in our project.

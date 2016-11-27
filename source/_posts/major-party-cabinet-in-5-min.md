@@ -12,6 +12,8 @@ categories:
 
 > 前言：2016年台灣大選過後，民進黨獲得國會多數及黨主席蔡英文當選下任總統，而現任總統馬英九提出在看守期「多數黨組閣」，引起朝野以及憲法學者激烈爭論，本文將快速介紹多數黨組閣的精神以及現行憲法法理，以及可能的解決方案。
 
+<!-- more -->
+
 ![REUTERS/ALY SONG](https://medium2.global.ssl.fastly.net/max/2000/1*bqWEu_CoEKhvnevc8oSXog.png)*REUTERS/ALY SONG*
 
 ### 什麼是多數黨組閣？

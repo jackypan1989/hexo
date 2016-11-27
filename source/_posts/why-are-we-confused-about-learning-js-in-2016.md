@@ -15,6 +15,8 @@ It's an article response to the article [How it feels to learn JavaScript in 201
 
 Recently, we've heard too many terms in JS community in 2016. Why? So, let's talk about these.
 
+<!-- more -->
+
 # Core Code
 ## Who started the war? [Angular](AngularJS) 1.x
 At first, it's just a small JS lib reinvented from jQuery to handle relationship among view, logic, and model. After that we found we don't need to write some shit and hard maintained codes in one single file with heavy logic. That's also what we called MVC or MVVM in front-end JS.
